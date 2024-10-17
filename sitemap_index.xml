@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/languagebox/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://jeremymeyers.dev/languagebox/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/languagebox/post-sitemap.xml</loc>
-		<lastmod>2024-10-09T00:24:37+00:00</lastmod>
+		<loc>https://jeremymeyers.dev/languagebox/post-sitemap.xml</loc>
+		<lastmod>2024-10-17T05:41:58+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/languagebox/page-sitemap.xml</loc>
+		<loc>https://jeremymeyers.dev/languagebox/page-sitemap.xml</loc>
 		<lastmod>2024-10-17T04:10:32+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/languagebox/category-sitemap.xml</loc>
-		<lastmod>2024-10-09T00:24:37+00:00</lastmod>
+		<loc>https://jeremymeyers.dev/languagebox/category-sitemap.xml</loc>
+		<lastmod>2024-10-17T05:41:58+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/languagebox/post_tag-sitemap.xml</loc>
-		<lastmod>2024-10-09T00:24:37+00:00</lastmod>
+		<loc>https://jeremymeyers.dev/languagebox/post_tag-sitemap.xml</loc>
+		<lastmod>2024-10-17T05:41:58+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/languagebox/author-sitemap.xml</loc>
+		<loc>https://jeremymeyers.dev/languagebox/author-sitemap.xml</loc>
 		<lastmod>2024-10-03T21:40:34+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>toki pona Archives - LanguageBox</title>
-	<atom:link href="https://jeremymeyers.dev/languagebox/category/toki-pona/feed/" rel="self" type="application/rss+xml" />
-	<link>https://jeremymeyers.dev/languagebox/category/toki-pona/</link>
+	<title>core words Archives - LanguageBox</title>
+	<atom:link href="https://jeremymeyers.dev/languagebox/tag/core-words/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jeremymeyers.dev/languagebox/tag/core-words/</link>
 	<description></description>
 	<lastBuildDate>Thu, 17 Oct 2024 05:41:58 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>https://jeremymeyers.dev/languagebox/wp-content/uploads/2024/10/poki-toki.png</url>
-	<title>toki pona Archives - LanguageBox</title>
-	<link>https://jeremymeyers.dev/languagebox/category/toki-pona/</link>
+	<title>core words Archives - LanguageBox</title>
+	<link>https://jeremymeyers.dev/languagebox/tag/core-words/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
